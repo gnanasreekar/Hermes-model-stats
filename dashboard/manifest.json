@@ -1,0 +1,11 @@
+{
+  "name": "hermes-model-stats",
+  "label": "Hermes Model Stats",
+  "description": "Cross-provider AI request, token, and tool telemetry for Hermes across 1h, 24h, 7d, 30d, and all-time.",
+  "icon": "Activity",
+  "version": "1.0.0",
+  "tab": {
+    "hidden": true
+  },
+  "api": "plugin_api.py"
+}

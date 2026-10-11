@@ -1,0 +1,7 @@
+name: hermes-model-stats
+version: 1.0.0
+description: Cross-provider AI request, token, cost, and tool telemetry dashboard for Hermes across 1h, 24h, 7d, 30d, and all-time.
+manifest_version: 1
+kind: standalone
+author: Nous Research
+license: MIT
